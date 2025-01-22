@@ -18,7 +18,8 @@
     ·
     <a href="https://github.com/Earthzeta-Network/ai-agent-template-openai/issues">Report Bug</a>
     ·
-    <a href="https://discord.gg/DXGGJajW">Discord</a>
+    <a href="https://t.me/earthzeta">Telegram</a>
+    <a href="https://discordapp.com/users/339619501081362432">Discord</a>
   </p>
 
   <h3>Architecure Overview</h3>
